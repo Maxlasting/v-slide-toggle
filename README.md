@@ -12,6 +12,8 @@ npm i -S v-slider-toggle
 
 Like the jquery's `slideToggle()`.
 
+![img](https://s2.ax1x.com/2019/09/05/nninln.gif)
+
 ## How to use
 
 ```js
