@@ -1,6 +1,6 @@
 {
   "name": "v-slide-toggle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vue slide toggle directive",
   "main": "src/index.js",
   "scripts": {

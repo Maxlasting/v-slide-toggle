@@ -5,7 +5,7 @@
 ## Install:
 
 ```
-npm i -S v-slider-toggle
+npm i -S v-slide-toggle
 ```
 
 ## Introduction
