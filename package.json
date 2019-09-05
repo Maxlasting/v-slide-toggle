@@ -1,0 +1,36 @@
+{
+  "name": "v-slide-toggle",
+  "version": "1.0.1",
+  "description": "vue slide toggle directive",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "rimraf dist && babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxlasting/v-slide-toggle.git"
+  },
+  "keywords": [
+    "vue",
+    "slide",
+    "toggle",
+    "directive"
+  ],
+  "author": "FuQiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxlasting/v-slide-toggle/issues"
+  },
+  "homepage": "https://github.com/Maxlasting/v-slide-toggle#readme",
+  "dependencies": {
+    "@babel/runtime-corejs3": "^7.5.5",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "rimraf": "^2.6.3"
+  }
+}
